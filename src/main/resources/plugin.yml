@@ -1,0 +1,4 @@
+name: Scoreboard API
+version: '${project.version}'
+main: de.rembel.scoreboardapi.main.PluginMain
+api-version: '1.20'
